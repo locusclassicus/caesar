@@ -1,0 +1,34 @@
+---
+title: сapitulum I
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(checkdown)
+```
+
+_Insere pronomina relativa._
+
+1. Gallia est omnis divisa in partes tres,  __________ (qui, quae, quod) unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur.
+`r check_question(answer = 'quarum', button_label = 'corrigere', right = '✅', wrong = '❌') `
+`r check_hint('quarum', hint_title = '_vide responsum_') `
+
+
+2. Horum omnium fortissimi sunt Belgae, propterea quod a cultu atque humanitate provinciae longissime absunt, minimeque ad eos mercatores saepe commeant atque ea  __________ (qui, quae, quod) ad effeminandos animos pertinent important, proximique sunt Germanis, qui trans Rhenum incolunt, quibuscum continenter bellum gerunt. `r check_question(answer = 'quae', button_label = 'corrigere', right = '✅', wrong = '❌') `
+`r check_hint('quae', hint_title = '_vide responsum_') `
+
+
+
+3.  __________ (qui, quae, quod) de causa Helvetii quoque reliquos Gallos virtute praecedunt, quod fere cotidianis proeliis cum Germanis contendunt, cum aut suis finibus eos prohibent aut ipsi in eorum finibus bellum gerunt.
+`r check_question(answer = c('Qua', 'qua'), button_label = 'corrigere', right = '✅', wrong = '❌') `
+`r check_hint('Qua', hint_title = '_vide responsum_') `
+
+
+4. Eorum una pars,  __________ (qui, quae, quod) Gallos obtinere dictum est, initium capit a flumine Rhodano, continetur Garumna flumine, Oceano, finibus Belgarum, attingit etiam ab Sequanis et Helvetiis flumen Rhenum, vergit ad septentriones.
+`r check_question(answer = 'quam', button_label = 'corrigere', right = '✅', wrong = '❌') `
+`r check_hint('quam', hint_title = '_vide responsum_') `
+
+
+5. Aquitania a Garumna flumine ad Pyrenaeos montes et eam partem Oceani  __________ (qui, quae, quod) est ad Hispaniam pertinet.
+`r check_question(answer = 'quae', button_label = 'corrigere', right = '✅', wrong = '❌') `
+`r check_hint('quae', hint_title = '_vide responsum_') `
