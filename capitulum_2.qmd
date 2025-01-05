@@ -4,26 +4,16 @@ title: сapitulum II
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-library(checkdown)
+library(webexercises)
+add_to_quarto()
 ```
 
-_Insere formam imperfecti_.
+_Insere formam imperfecti._
 
-1. Orgetorix, M. Messala, M. Pisone consulibus, regni cupiditate inductus coniurationem nobilitatis fecit et civitati persuasit ut de finibus suis cum omnibus copiis  __________ (exeo): perfacile esse, cum virtute omnibus  __________ (praesto), totius Galliae imperio potiri.
-`r check_question(answer = c('exirent', 'exirent'), button_label = 'corrigere', right = '✅', wrong = '❌') `
-`r check_hint('exirent', hint_title = '_vide responsum_') `
-`r check_question(answer = c('praestarent', 'praestarent'), button_label = 'corrigere', right = '✅', wrong = '❌') `
-`r check_hint('praestarent', hint_title = '_vide responsum_') `
+(@) Orgetorix M. Messala, M. Pisone consulibus regni cupiditate inductus coniurationem nobilitatis fecit et civitati persuasit ut de finibus suis cum omnibus copiis  `r fitb('exirent', ignore_case = TRUE)` _\(exeo\)_  : perfacile esse , cum virtute omnibus  `r fitb('praestarent', ignore_case = TRUE)` _\(praesto\)_  , totius Galliae imperio potiri .
 
 
-2. His rebus fiebat ut et minus late  __________ (vagor) et minus facile finitimis bellum inferre __________ (possum).
-`r check_question(answer = c('vagarentur', 'vagarentur'), button_label = 'corrigere', right = '✅', wrong = '❌') `
-`r check_hint('vagarentur', hint_title = '_vide responsum_') `
-`r check_question(answer = c('possent', 'possent'), button_label = 'corrigere', right = '✅', wrong = '❌') `
-`r check_hint('possent', hint_title = '_vide responsum_') `
+(@) His rebus  fiebat  ut et minus late  `r fitb('vagarentur', ignore_case = TRUE)` _\(vagor\)_  et minus facile finitimis bellum inferre  `r fitb('possent', ignore_case = TRUE)` _\(possum\)_  ; qua ex parte homines bellandi cupidi magno dolore  `r fitb('adficiebantur', ignore_case = TRUE)` _\(adficio\)_  .
 
-3. Pro multitudine autem hominum et pro gloria belli atque fortitudinis angustos se fines habere  __________ (arbitror), qui in longitudinem milia passuum CCXL, in latitudinem CLXXX __________ (pateo).
-`r check_question(answer = c('arbitrabantur', 'arbitrabantur'), button_label = 'corrigere', right = '✅', wrong = '❌') `
-`r check_hint('arbitrabantur', hint_title = '_vide responsum_') `
-`r check_question(answer = c('patebant', 'patebant'), button_label = 'corrigere', right = '✅', wrong = '❌') `
-`r check_hint('patebant', hint_title = '_vide responsum_') `
+
+(@) Pro multitudine autem hominum et pro gloria belli atque fortitudinis angustos se fines habere  `r fitb('arbitrabantur', ignore_case = TRUE)` _\(arbitror\)_  , qui in longitudinem milia passuum CCXL , in latitudinem CLXXX  `r fitb('patebant', ignore_case = TRUE)` _\(pateo\)_  .
