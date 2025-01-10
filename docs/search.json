@@ -11,7 +11,7 @@
     "href": "capitulum_2.html",
     "title": "сapitulum II",
     "section": "",
-    "text": "Insere formam imperfecti.\n\nOrgetorix M. Messala, M. Pisone consulibus regni cupiditate inductus coniurationem nobilitatis fecit et civitati persuasit ut de finibus suis cum omnibus copiis  (exeo) : perfacile esse , cum virtute omnibus  (praesto) , totius Galliae imperio potiri .\nHis rebus fiebat ut et minus late  (vagor) et minus facile finitimis bellum inferre  (possum) ; qua ex parte homines bellandi cupidi magno dolore  (adficio) .\nPro multitudine autem hominum et pro gloria belli atque fortitudinis angustos se fines habere  (arbitror) , qui in longitudinem milia passuum CCXL , in latitudinem CLXXX  (pateo) ."
+    "text": "Insere formam imperfecti.\n\nOrgetorix M. Messala, M. Pisone consulibus regni cupiditate inductus coniurationem nobilitatis fecit et civitati persuasit ut de finibus suis cum omnibus copiis  (exeo): perfacile esse, cum virtute omnibus  (praesto), totius Galliae imperio potiri.\nHis rebus fiebat ut et minus late  (vagor) et minus facile finitimis bellum inferre  (possum) ; qua ex parte homines bellandi cupidi magno dolore  (adficio).\nPro multitudine autem hominum et pro gloria belli atque fortitudinis angustos se fines habere  (arbitror) , qui in longitudinem milia passuum CCXL, in latitudinem CLXXX  (pateo)."
   },
   {
     "objectID": "capitulum_1.html",
@@ -54,5 +54,19 @@
     "title": "Webexercises",
     "section": "Hidden solutions and hints",
     "text": "Hidden solutions and hints\nYou can fence off a solution area that will be hidden behind a button using hide() before the solution and unhide() after, each as inline R code. Pass the text you want to appear on the button to the hide() function.\nIf the solution is a code chunk, instead of using hide() and unhide(), simply set the webex.hide chunk option to TRUE, or set it to the string you wish to display on the button.\nRecreate the scatterplot below, using the built-in cars dataset.\n\n\n\n\n\n\n\n\n\n\n\nI need a hint\n\nSee the documentation for plot() (?plot)\n\n\n\n\n\nClick here to see the solution\n\nplot(cars$speed, cars$dist)"
+  },
+  {
+    "objectID": "capitulum_3.html",
+    "href": "capitulum_3.html",
+    "title": "сapitulum III",
+    "section": "",
+    "text": "Gerundium, gerundivum aut participium inserendum est.\n\nHis rebus (adduco) et auctoritate Orgetorigis (permoveo) constituerunt ea quae ad (proficiscor) pertinerent comparare, iumentorum et carrorum quam maximum numerum coemere, sementes quam maximas facere, ut in itinere copia frumenti suppeteret, cum proximis civitatibus pacem et amicitiam confirmare.\nAd eas res (conficio) biennium sibi satis esse duxerunt.\nPerfacile factu esse illis probat conata perficere, propterea quod ipse suae civitatis imperium (obtineo) esset: non esse dubium quin totius Galliae plurimum Helvetii possent; se suis copiis suoque exercitu illis regna (concilio) confirmat.\nHac oratione (adduco) inter se fidem et ius iurandum dant et, regno (occupo), per tres potentissimos ac firmissimos populos totius Galliae sese potiri posse sperant."
+  },
+  {
+    "objectID": "capitulum_4.html",
+    "href": "capitulum_4.html",
+    "title": "сapitulum IV",
+    "section": "",
+    "text": "Deest vocabula: mors, mos, suspicium, iudicium, indicium.\n\nEa res est Helvetiis per  enuntiata.\n suis Orgetorigem ex vinculis causam dicere coegerunt;\nDie constituta causae dictionis Orgetorix ad  omnem suam familiam, ad hominum milia decem, undique coegit, et omnes clientes obaeratosque suos, quorum magnum numerum habebat, eodem conduxit; per eos ne causam diceret se eripuit.\n…Orgetorix mortuus est; neque abest , ut Helvetii arbitrantur, quin ipse sibi  consciverit."
   }
 ]

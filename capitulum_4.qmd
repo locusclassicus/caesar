@@ -1,0 +1,22 @@
+---
+title: сapitulum IV
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(webexercises)
+add_to_quarto()
+```
+
+_Desunt vocabula: mors, mos, suspicium, iudicium, indicium._
+
+(@) Ea res est Helvetiis per  `r fitb('indicium', ignore_case = TRUE)`  enuntiata.
+
+
+(@)  `r fitb('Moribus', ignore_case = TRUE)`  suis Orgetorigem ex vinculis causam dicere coegerunt;
+
+
+(@) Die constituta causae dictionis Orgetorix ad  `r fitb('iudicium', ignore_case = TRUE)`  omnem suam familiam, ad hominum milia decem, undique coegit, et omnes clientes obaeratosque suos, quorum magnum numerum habebat, eodem conduxit; per eos ne causam diceret se eripuit. 
+
+
+(@) ...Orgetorix mortuus est; neque abest  `r fitb('suspicio', ignore_case = TRUE)`, ut Helvetii arbitrantur, quin ipse sibi  `r fitb('mortem', ignore_case = TRUE)`  consciverit.
