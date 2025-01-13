@@ -10,10 +10,10 @@ add_to_quarto()
 
 _Insere formam imperfecti._
 
-(@) Orgetorix M. Messala, M. Pisone consulibus regni cupiditate inductus coniurationem nobilitatis fecit et civitati persuasit ut de finibus suis cum omnibus copiis  `r fitb('exirent', ignore_case = TRUE)` _\(exeo\)_  : perfacile esse , cum virtute omnibus  `r fitb('praestarent', ignore_case = TRUE)` _\(praesto\)_  , totius Galliae imperio potiri .
+(@) Orgetorix M. Messala, M. Pisone consulibus regni cupiditate inductus coniurationem nobilitatis fecit et civitati persuasit ut de finibus suis cum omnibus copiis  `r fitb('exirent', ignore_case = TRUE)` _\(exeo\)_: perfacile esse, cum virtute omnibus  `r fitb('praestarent', ignore_case = TRUE)` _\(praesto\)_, totius Galliae imperio potiri.
 
 
-(@) His rebus  fiebat  ut et minus late  `r fitb('vagarentur', ignore_case = TRUE)` _\(vagor\)_  et minus facile finitimis bellum inferre  `r fitb('possent', ignore_case = TRUE)` _\(possum\)_  ; qua ex parte homines bellandi cupidi magno dolore  `r fitb('adficiebantur', ignore_case = TRUE)` _\(adficio\)_  .
+(@) His rebus  fiebat  ut et minus late  `r fitb('vagarentur', ignore_case = TRUE)` _\(vagor\)_  et minus facile finitimis bellum inferre  `r fitb('possent', ignore_case = TRUE)` _\(possum\)_ ; qua ex parte homines bellandi cupidi magno dolore  `r fitb('adficiebantur', ignore_case = TRUE)` _\(adficio\)_.
 
 
-(@) Pro multitudine autem hominum et pro gloria belli atque fortitudinis angustos se fines habere  `r fitb('arbitrabantur', ignore_case = TRUE)` _\(arbitror\)_  , qui in longitudinem milia passuum CCXL , in latitudinem CLXXX  `r fitb('patebant', ignore_case = TRUE)` _\(pateo\)_  .
+(@) Pro multitudine autem hominum et pro gloria belli atque fortitudinis angustos se fines habere  `r fitb('arbitrabantur', ignore_case = TRUE)` _\(arbitror\)_ , qui in longitudinem milia passuum CCXL, in latitudinem CLXXX  `r fitb('patebant', ignore_case = TRUE)` _\(pateo\)_.

@@ -1,0 +1,17 @@
+---
+title: сapitulum V
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(webexercises)
+add_to_quarto()
+```
+
+(@) Post eius mortem nihilo minus Helvetii id quod constituerant facere `r fitb('conantur', ignore_case = TRUE)` _(conor; praes. ind. pass. 3 pl.)_, ut e finibus suis exeant. 
+
+(@) Ubi iam se ad eam rem paratos esse `r fitb('arbitrati', ignore_case = TRUE)` `r fitb('sunt', ignore_case = TRUE)` _(arbitror; pf. ind. pass. 3 pl.)_, oppida sua omnia, numero ad duodecim, vicos ad quadringentos, reliqua privata aedificia `r fitb('incendunt', ignore_case = TRUE)` _(incendo; praes. ind. act. 3 pl.)_; frumentum `r fitb('omne', ignore_case = TRUE)` _(omnis; acc. sg. neut.)_, praeter quod secum portaturi erant, comburunt, ut domum reditionis spe `r fitb('sublata', ignore_case = TRUE)` _(tollo; part. pf. pass. abl. sg. fem.)_ paratiores ad omnia pericula subeunda essent; trium mensum molita `r fitb('cibaria', ignore_case = TRUE)` _(cibarium; acc. pl. neut.)_ sibi quemque domo efferre iubent. 
+
+(@) Persuadent Rauracis et Tulingis et Latobrigis finitimis, uti eodem usi consilio oppidis suis vicisque exustis una cum iis proficiscantur, Boiosque, qui trans Rhenum incoluerant et in agrum Noricum transierant Noreiamque oppugnabant, receptos ad se socios sibi `r fitb('adsciscunt', ignore_case = TRUE)` _(adscisco; praes. ind. act. 3 pl.)_.
+
+
