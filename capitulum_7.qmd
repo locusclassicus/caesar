@@ -1,0 +1,85 @@
+---
+title: сapitulum VII
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(webexercises)
+add_to_quarto()
+```
+
+::::{.columns}
+:::{.column}
+
+_1. Quid Caesar maturat facere?_
+
+```{r}
+opts_p <- c(
+  "ad Britanniam navigare",
+  answer = "ab urbe proficisci",
+  "Romam reverti")
+```
+
+`r longmcq(opts_p)`
+
+_2. Quid iubet Caesar rescindi?_
+
+```{r}
+opts_p <- c(
+  "muros urbis",
+  "castra Romana",
+  answer = "pontem ad Genavam")
+```
+
+`r longmcq(opts_p)`
+
+_3. Qui sunt nobiles, quos Helvetii ad Caesarem legatos miserunt?_
+
+```{r}
+opts_p <- c(
+  answer = "Nammeius et Verucloetius",
+  "Orgetorix et Divico",
+  "Ambiorix et Casticus")
+```
+
+`r longmcq(opts_p)`
+
+:::
+
+:::{.column}
+
+_4. Quid Helvetii rogare voluerunt?_
+
+```{r}
+opts_p <- c(
+  "ut sibi liceret bellum gerere",
+  answer = "ut iter per provinciam facere liceret",
+  "ut auxilia a Romanis acciperent")
+```
+
+`r longmcq(opts_p)`
+
+_5. Quid Caesar memoria tenebat?_
+
+```{r}
+opts_p <- c(
+  "L. Cassium consulem praemium accepisse",
+  answer = "L. Cassium consulem occisum esse",
+  "L. Cassium consulem legatum fuisse")
+```
+
+`r longmcq(opts_p)`
+
+_6. Quid Caesar legatis promisit?_
+
+```{r}
+opts_p <- c(
+  "se responsurum esse post bellum",
+  "se cum Helvetiis pacem facturum esse",
+  answer = "se deliberaturum esse de re")
+```
+
+`r longmcq(opts_p)`
+
+:::
+::::
