@@ -1,0 +1,19 @@
+---
+title: сapitulum VI
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(webexercises)
+add_to_quarto()
+```
+
+_Desunt vocabula: iter, mons (2), provincia, fines (3), oppidum, populus, dies (2)._
+
+(@) Erant omnino `r fitb('itinera', ignore_case = TRUE)` duo, quibus itineribus domo exire possent: unum per Sequanos, angustum et difficile, inter `r fitb('montem', ignore_case = TRUE)` Iuram et flumen Rhodanum, vix qua singuli carri ducerentur, `r fitb('mons', ignore_case = TRUE)` autem altissimus impendebat, ut facile perpauci prohibere possent; alterum per `r fitb('provinciam', ignore_case = TRUE)` nostram, multo facilius atque expeditius, propterea quod inter `r fitb('fines', ignore_case = TRUE)` Helvetiorum et Allobrogum, qui nuper pacati erant, Rhodanus fluit isque non nullis locis vado transitur. 
+
+(@) Extremum `r fitb('oppidum', ignore_case = TRUE)` Allobrogum est proximumque Helvetiorum `r fitb('finibus', ignore_case = TRUE)` Genava. 
+
+(@) Allobrogibus sese vel persuasuros, quod nondum bono animo in `r fitb('populum', ignore_case = TRUE)` Romanum viderentur, existimabant vel vi coacturos ut per suos `r fitb('fines', ignore_case = TRUE)` eos ire paterentur. 
+
+(@) Omnibus rebus ad profectionem comparatis `r fitb('diem', ignore_case = TRUE)` dicunt, qua `r fitb('die', ignore_case = TRUE)` ad ripam Rhodani omnes conveniant. 
