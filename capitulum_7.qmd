@@ -11,35 +11,38 @@ add_to_quarto()
 ::::{.columns}
 :::{.column}
 
-_1. Quid Caesar maturat facere?_
+_1. Quid Caesar properat facere?_
 
 ```{r}
 opts_p <- c(
   "ad Britanniam navigare",
   answer = "ab urbe proficisci",
-  "Romam reverti")
+  "Romam reverti",
+  "milites convocare")
 ```
 
 `r longmcq(opts_p)`
 
-_2. Quid iubet Caesar rescindi?_
+_2. Quid Caesar rescindi iubet?_
 
 ```{r}
 opts_p <- c(
   "muros urbis",
   "castra Romana",
-  answer = "pontem ad Genavam")
+  answer = "pontem ad Genavam",
+  "portas oppidi")
 ```
 
 `r longmcq(opts_p)`
 
-_3. Qui sunt nobiles, quos Helvetii ad Caesarem legatos miserunt?_
+_3. Quos nobiles Helvetii ad Caesarem legatos miserunt?_
 
 ```{r}
 opts_p <- c(
-  answer = "Nammeius et Verucloetius",
-  "Orgetorix et Divico",
-  "Ambiorix et Casticus")
+  answer = "Nammeium et Verucloetium",
+  "Orgetorigem et Diviconem",
+  "Ambiorigem et Casticum",
+  "Dumnorigem et Vercingetorigem")
 ```
 
 `r longmcq(opts_p)`
@@ -48,24 +51,26 @@ opts_p <- c(
 
 :::{.column}
 
-_4. Quid Helvetii rogare voluerunt?_
+_4. Quid Helvetii a Caesare petere voluerunt?_
 
 ```{r}
 opts_p <- c(
   "ut sibi liceret bellum gerere",
   answer = "ut iter per provinciam facere liceret",
-  "ut auxilia a Romanis acciperent")
+  "ut auxilia a Romanis acciperent",
+  "ut pacem cum finitimis facerent")
 ```
 
 `r longmcq(opts_p)`
 
-_5. Quid Caesar memoria tenebat?_
+_5. Quid Caesar memoria retinebat?_
 
 ```{r}
 opts_p <- c(
   "L. Cassium consulem praemium accepisse",
   answer = "L. Cassium consulem occisum esse",
-  "L. Cassium consulem legatum fuisse")
+  "L. Cassium consulem legatum fuisse",
+  "L. Cassium consulem Galliam vicisse")
 ```
 
 `r longmcq(opts_p)`
@@ -76,7 +81,8 @@ _6. Quid Caesar legatis promisit?_
 opts_p <- c(
   "se responsurum esse post bellum",
   "se cum Helvetiis pacem facturum esse",
-  answer = "se deliberaturum esse de re")
+  answer = "se deliberaturum esse de re",
+  "se auxilium Helvetiis daturum esse")
 ```
 
 `r longmcq(opts_p)`
