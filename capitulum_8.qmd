@@ -1,0 +1,80 @@
+---
+title: сapitulum VIII
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(webexercises)
+add_to_quarto()
+```
+
+_Desunt vocabula: fossa (1), murus (1), praesidium (1), castellum (1), navis (1), ratis (1), telum (1)._
+
+(@) Interea ea legione quam secum habebat militibusque, qui ex provincia convenerant, a lacu Lemanno, qui in flumen Rhodanum influit, ad montem Iuram, qui fines Sequanorum ab Helvetiis dividit, milia passuum XVIIII `r fitb('murum', ignore_case = TRUE)` in altitudinem pedum sedecim `r fitb('fossam', ignore_case = TRUE)`que perducit. 
+
+(@) Eo opere perfecto `r fitb('praesidia', ignore_case = TRUE)` disponit, `r fitb('castella', ignore_case = TRUE)` communit, quo facilius, si se invito transire conentur, prohibere possit.
+
+(@) Helvetii ea spe deiecti `r fitb('navibus', ignore_case = TRUE)` iunctis `r fitb('ratibus', ignore_case = TRUE)`que compluribus factis, alii vadis Rhodani, qua minima altitudo fluminis erat, non numquam interdiu, saepius noctu si perrumpere possent conati, operis munitione et militum concursu et `r fitb('telis', ignore_case = TRUE)` repulsi, hoc conatu destiterunt. 
+
+---
+
+(@) _Quid significat "legio"?_
+
+```{r}
+opts_legio <- c(
+  "cohors", 
+  "classis", 
+  answer = "exercitus" 
+  )
+```
+
+`r longmcq(opts_legio)`
+
+(@) _Quid significat "praesidia"?_
+
+```{r}
+opts_praesidia <- c(
+  "impedimenta", 
+  "potestas", 
+  answer = "custodia"
+  )
+```
+
+`r longmcq(opts_praesidia)`
+
+(@) _Quid significat "castella"?_
+
+```{r}
+opts_castella <- c(
+  "deversorium", 
+  answer = "locus munitus", 
+  "urbs"
+  )
+```
+
+`r longmcq(opts_castella)`
+
+(@) _Quid significat "munitio"?_
+
+```{r}
+opts_munitione <- c(
+  answer = "defensio", 
+  "aggressio", 
+  "limes"
+  )
+```
+
+`r longmcq(opts_munitione)`
+
+(@) _"Telum" quid est?_
+
+```{r}
+opts_telis <- c(
+  "gladius", 
+  answer = "arma", 
+  "scuta"
+  )
+```
+
+`r longmcq(opts_telis)`
+
