@@ -18,6 +18,10 @@ _Desunt vocabula: fossa (1), murus (1), praesidium (1), castellum (1), navis (1)
 
 ---
 
+::::{.columns}
+:::{.column}
+
+
 (@) _Quid significat "legio"?_
 
 ```{r}
@@ -42,6 +46,10 @@ opts_praesidia <- c(
 
 `r longmcq(opts_praesidia)`
 
+:::
+
+:::{.column}
+
 (@) _Quid significat "castella"?_
 
 ```{r}
@@ -53,6 +61,9 @@ opts_castella <- c(
 ```
 
 `r longmcq(opts_castella)`
+
+
+
 
 (@) _Quid significat "munitio"?_
 
@@ -66,15 +77,5 @@ opts_munitione <- c(
 
 `r longmcq(opts_munitione)`
 
-(@) _"Telum" quid est?_
-
-```{r}
-opts_telis <- c(
-  "gladius", 
-  answer = "arma", 
-  "scuta"
-  )
-```
-
-`r longmcq(opts_telis)`
-
+:::
+::::

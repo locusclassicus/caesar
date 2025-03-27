@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: ./docs
+website:
+  title: De Bello Gallico
+  navbar:
+    left:
+    - href: index.qmd
+      text: Domus
+    - href: capitulum_1.qmd
+      text: Capitulum I
+    - href: capitulum_2.qmd
+      text: Capitulum II
+    - href: capitulum_3.qmd
+      text: Capitulum III
+    - href: capitulum_4.qmd
+      text: Capitulum IV
+    - href: capitulum_5.qmd
+      text: Capitulum V
+    - href: capitulum_6.qmd
+      text: Capitulum VI
+    - href: capitulum_7.qmd
+      text: Capitulum VII
+    - href: capitulum_8.qmd
+      text: Capitulum VIII
+format:
+  html:
+    theme: sandstone
+    toc: false
+    css: include/webex.css
+    include-after-body: include/webex.js

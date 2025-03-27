@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "capitulum_8.html",
+    "href": "capitulum_8.html",
+    "title": "сapitulum VIII",
+    "section": "",
+    "text": "Desunt vocabula: fossa (1), murus (1), praesidium (1), castellum (1), navis (1), ratis (1), telum (1).\n\nInterea ea legione quam secum habebat militibusque, qui ex provincia convenerant, a lacu Lemanno, qui in flumen Rhodanum influit, ad montem Iuram, qui fines Sequanorum ab Helvetiis dividit, milia passuum XVIIII  in altitudinem pedum sedecim que perducit.\nEo opere perfecto  disponit,  communit, quo facilius, si se invito transire conentur, prohibere possit.\nHelvetii ea spe deiecti  iunctis que compluribus factis, alii vadis Rhodani, qua minima altitudo fluminis erat, non numquam interdiu, saepius noctu si perrumpere possent conati, operis munitione et militum concursu et  repulsi, hoc conatu destiterunt.\n\n\n\n\n\nQuid significat “legio”?\n\n\n cohors classis exercitus\n\n\nQuid significat “praesidia”?\n\n\n impedimenta potestas custodia\n\n\n\nQuid significat “castella”?\n\n\n deversorium locus munitus urbs\n\n\nQuid significat “munitio”?\n\n\n defensio aggressio limes"
+  },
+  {
     "objectID": "capitulum_5.html",
     "href": "capitulum_5.html",
     "title": "сapitulum V",
@@ -28,13 +35,6 @@
     "text": "Gallia est omnis divisa in partes tres,  (qui, quae, quod) unam incolunt Belgae, aliam Aquitani, tertiam  (qui, quae, quod) ipsorum lingua Celtae, nostra Galli appellantur.\nHorum omnium fortissimi sunt Belgae, propterea quod a cultu atque humanitate provinciae longissime absunt, minimeque ad eos mercatores saepe commeant atque ea  (qui, quae, quod) ad effeminandos animos pertinent important, proximique sunt Germanis,  (qui, quae, quod) trans Rhenum incolunt,  (qui, quae, quod) cum continenter bellum gerunt.\n (qui, quae, quod) de causa Helvetii quoque reliquos Gallos virtute praecedunt, quod fere cotidianis proeliis cum Germanis contendunt, cum aut suis finibus eos prohibent aut ipsi in eorum finibus bellum gerunt.\nEorum una pars,  (qui, quae, quod) Gallos obtinere dictum est, initium capit a flumine Rhodano, continetur Garumna flumine, Oceano, finibus Belgarum, attingit etiam ab Sequanis et Helvetiis flumen Rhenum, vergit ad septentriones.\nAquitania a Garumna flumine ad Pyrenaeos montes et eam partem Oceani  (qui, quae, quod) est ad Hispaniam pertinet."
   },
   {
-    "objectID": "capitulum_8.html",
-    "href": "capitulum_8.html",
-    "title": "сapitulum VIII",
-    "section": "",
-    "text": "Desunt vocabula: fossa (1), murus (1), praesidium (1), castellum (1), navis (1), ratis (1), telum (1).\n\nInterea ea legione quam secum habebat militibusque, qui ex provincia convenerant, a lacu Lemanno, qui in flumen Rhodanum influit, ad montem Iuram, qui fines Sequanorum ab Helvetiis dividit, milia passuum XVIIII  in altitudinem pedum sedecim que perducit.\nEo opere perfecto  disponit,  communit, quo facilius, si se invito transire conentur, prohibere possit.\nHelvetii ea spe deiecti  iunctis que compluribus factis, alii vadis Rhodani, qua minima altitudo fluminis erat, non numquam interdiu, saepius noctu si perrumpere possent conati, operis munitione et militum concursu et  repulsi, hoc conatu destiterunt.\n\n\n\nQuid significat “legio”?\n\n\n cohors classis exercitus\n\n\nQuid significat “praesidia”?\n\n\n impedimenta potestas custodia\n\n\nQuid significat “castella”?\n\n\n deversorium locus munitus urbs\n\n\nQuid significat “munitio”?\n\n\n defensio aggressio limes\n\n\n“Telum” quid est?\n\n\n gladius arma scuta"
-  },
-  {
     "objectID": "webexercises.html",
     "href": "webexercises.html",
     "title": "Webexercises",
@@ -61,13 +61,6 @@
     "title": "Webexercises",
     "section": "Hidden solutions and hints",
     "text": "Hidden solutions and hints\nYou can fence off a solution area that will be hidden behind a button using hide() before the solution and unhide() after, each as inline R code. Pass the text you want to appear on the button to the hide() function.\nIf the solution is a code chunk, instead of using hide() and unhide(), simply set the webex.hide chunk option to TRUE, or set it to the string you wish to display on the button.\nRecreate the scatterplot below, using the built-in cars dataset.\n\n\n\n\n\n\n\n\n\n\n\nI need a hint\n\nSee the documentation for plot() (?plot)\n\n\n\n\n\nClick here to see the solution\n\nplot(cars$speed, cars$dist)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Qui sumus nos",
-    "section": "",
-    "text": "Pagina nondum scripta est."
   },
   {
     "objectID": "capitulum_2.html",
