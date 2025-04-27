@@ -4,8 +4,6 @@ title: сapitulum II
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-library(webexercises)
-add_to_quarto()
 ```
 
 _Insere formam imperfecti._

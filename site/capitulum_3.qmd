@@ -4,8 +4,6 @@ title: сapitulum III
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-library(webexercises)
-add_to_quarto()
 ```
 
 _Gerundium, gerundivum aut participium inserendum est._

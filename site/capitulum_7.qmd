@@ -4,14 +4,12 @@ title: сapitulum VII
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-library(webexercises)
-add_to_quarto()
 ```
 
 ::::{.columns}
 :::{.column}
 
-_1. Quid Caesar properat facere?_
+_1. Cum profectionem Helvetiorum comperisset, quid Caesar facere properavit?_
 
 ```{r}
 opts_p <- c(
@@ -23,7 +21,7 @@ opts_p <- c(
 
 `r longmcq(opts_p)`
 
-_2. Quid Caesar rescindi iubet?_
+_2. Cum primum Genavam pervenisset, quid Caesar rescindi iussit?_
 
 ```{r}
 opts_p <- c(

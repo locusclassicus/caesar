@@ -4,8 +4,6 @@ title: сapitulum I
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-library(webexercises)
-add_to_quarto()
 ```
 
 (@) Gallia est omnis divisa in partes tres, `r fitb('quarum', ignore_case = TRUE)` _(qui, quae, quod)_ unam incolunt Belgae, aliam Aquitani, tertiam `r fitb('qui', ignore_case = TRUE)` _(qui, quae, quod)_ ipsorum lingua Celtae, nostra Galli appellantur.

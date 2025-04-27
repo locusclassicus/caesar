@@ -4,8 +4,6 @@ title: сapitulum IV
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-library(webexercises)
-add_to_quarto()
 ```
 
 _Desunt vocabula: mors, mos, suspicium, iudicium, indicium._

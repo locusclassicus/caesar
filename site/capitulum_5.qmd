@@ -4,8 +4,6 @@ title: сapitulum V
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-library(webexercises)
-add_to_quarto()
 ```
 
 (@) Post eius mortem nihilo minus Helvetii id quod constituerant facere `r fitb('conantur', ignore_case = TRUE)` _(conor; praes. ind. pass. 3 pl.)_, ut e finibus suis exeant. 

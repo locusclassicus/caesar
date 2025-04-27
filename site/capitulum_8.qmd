@@ -4,8 +4,6 @@ title: сapitulum VIII
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-library(webexercises)
-add_to_quarto()
 ```
 
 _Desunt vocabula: fossa (1), murus (1), praesidium (1), castellum (1), navis (1), ratis (1), telum (1)._
@@ -18,11 +16,13 @@ _Desunt vocabula: fossa (1), murus (1), praesidium (1), castellum (1), navis (1)
 
 ---
 
+_Synonyma reperi:_
+
 ::::{.columns}
 :::{.column}
 
 
-(@) _Quid significat "legio"?_
+(@) _legio_ = 
 
 ```{r}
 opts_legio <- c(
@@ -34,7 +34,7 @@ opts_legio <- c(
 
 `r longmcq(opts_legio)`
 
-(@) _Quid significat "praesidia"?_
+(@) _praesidia_ =
 
 ```{r}
 opts_praesidia <- c(
@@ -50,7 +50,7 @@ opts_praesidia <- c(
 
 :::{.column}
 
-(@) _Quid significat "castella"?_
+(@) _castella_ = 
 
 ```{r}
 opts_castella <- c(
@@ -63,9 +63,7 @@ opts_castella <- c(
 `r longmcq(opts_castella)`
 
 
-
-
-(@) _Quid significat "munitio"?_
+(@) _munitio_ = 
 
 ```{r}
 opts_munitione <- c(

@@ -4,8 +4,6 @@ title: сapitulum VI
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-library(webexercises)
-add_to_quarto()
 ```
 
 _Desunt vocabula: iter, mons (2), provincia, fines (3), oppidum, populus, dies (2)._

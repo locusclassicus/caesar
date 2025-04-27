@@ -5,9 +5,6 @@ title: Capitulum X
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-library(webexercises)
-add_to_quarto()
-
 ```
 
 
@@ -40,4 +37,4 @@ q3 <- mcq(opts3)
 
 (4) Ibi Ceutrones et Graioceli et Caturiges _locis superioribus occupatis_ `r q3` _itinere_ `r q2` exercitum prohibere conantur. 
 
-(5) Compluribus his proeliis pulsis ab Ocelo, quod est oppidum `r fitb('citerioris')` _(< citer)_ provinciae extremum, in `r fitb('fines')` _(= terram)_ Vocontiorum `r fitb('ulterioris')` _(< ulter)_ provinciae die septimo pervenit; inde in Allobrogum fines, ab Allobrogibus in Segusiavos exercitum ducit. Hi sunt extra provinciam trans Rhodanum primi. 
+(5) Compluribus his proeliis pulsis ab Ocelo, quod est oppidum `r fitb('citerioris')` _(< citer)_ provinciae extremum, in `r fitb('fines')` _(= terram)_ Vocontiorum `r fitb('ulterioris')` _(< ulter)_ provinciae die septimo pervenit; inde in Allobrogum `r fitb('fines')` _(= terram)_, ab Allobrogibus in Segusiavos exercitum ducit. Hi sunt extra provinciam trans Rhodanum primi. 
