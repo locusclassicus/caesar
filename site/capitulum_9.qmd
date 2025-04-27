@@ -62,7 +62,7 @@ _Synonyma reperi:_
 ::::{.columns}
 :::{.column}
 
-(1) _angustiae_ = 
+(5) _angustiae_ = 
 
 ```{r}
 opts_angustiae <- c(
@@ -74,7 +74,7 @@ opts_angustiae <- c(
 
 `r longmcq(opts_angustiae)`
 
-(2) _largitio_ = 
+(6) _largitio_ = 
 
 ```{r}
 opts_largitione <- c(
@@ -90,7 +90,7 @@ opts_largitione <- c(
 
 :::{.column}
 
-(3) _obstrictus_ = 
+(7) _obstrictus_ = 
 
 ```{r}
 opts_obstrictas <- c(
@@ -102,7 +102,7 @@ opts_obstrictas <- c(
 
 `r longmcq(opts_obstrictas)`
 
-4. _impetro_ = 
+(8) _impetro_ = 
 
 ```{r}
 opts_impetro <- c(
