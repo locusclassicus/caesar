@@ -52,7 +52,7 @@ q4 <- mcq(opts4)
 
 ```{r}
 
-opts6 <- c(answer = "ablativus inopiae", answer = "ablativus separationis", "ablativus pretii", "ablativus limitationis")
+opts6 <- c("ablativus inopiae", answer = "ablativus separationis", "ablativus pretii", "ablativus limitationis")
 
 q6 <- mcq(opts6)
 
@@ -68,7 +68,7 @@ _Synonyma reperi:_
 
 ```{r}
 opts_angustiae <- c(
-  "difficultas", 
+  "fortuna", 
   "culpa",
    answer = "locus artus"
 )
