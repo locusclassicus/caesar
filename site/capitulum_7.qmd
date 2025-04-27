@@ -6,8 +6,6 @@ title: сapitulum VII
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-::::{.columns}
-:::{.column}
 
 _1. Cum profectionem Helvetiorum comperisset, quid Caesar facere properavit?_
 
@@ -45,9 +43,6 @@ opts_p <- c(
 
 `r longmcq(opts_p)`
 
-:::
-
-:::{.column}
 
 _4. Helvetii a Caesare petere voluerunt..._
 
@@ -85,5 +80,3 @@ opts_p <- c(
 
 `r longmcq(opts_p)`
 
-:::
-::::
