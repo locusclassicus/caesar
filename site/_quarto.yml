@@ -23,6 +23,8 @@ website:
       text: Capitulum VII
     - href: capitulum_8.qmd
       text: Capitulum VIII
+    - href: capitulum_9.qmd
+      text: Capitulum IX
 format:
   html:
     theme: sandstone

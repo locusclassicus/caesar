@@ -1,0 +1,118 @@
+---
+title: сapitulum IX
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(webexercises)
+
+add_to_quarto()
+
+```
+
+```{r}
+
+opts1 <- c("ablativus separationis", "ablativus modi", "ablativus temporis", answer = "ablativus absolutus")
+
+q1 <- mcq(opts1)
+
+```
+
+(1) Relinquebatur una per Sequanos via, qua _Sequanis invitis_ `r q1` propter angustias ire non poterant.
+
+
+```{r}
+
+opts2 <- c("ablativus causae", "ablativus qualitatis", answer = "ablativus absolutus", "ablativus mensurae")
+
+q2 <- mcq(opts2)
+
+```
+
+(2) His cum sua sponte persuadere non possent, legatos ad Dumnorigem Haeduum mittunt, ut _eo deprecatore_ `r q2` a Sequanis impetrarent.
+
+
+```{r}
+
+opts3 <- c(answer = "ablativus causae", "ablativus qualitatis", "ablativus absolutus", "ablativus auctoris")
+
+q3 <- mcq(opts3)
+
+opts4 <- c(answer = "genetivus possessivus", answer = "genetivus obiectivus", "genetivus subiectivus", "genetivus generis")
+
+q4 <- mcq(opts4)
+
+```
+
+(3) Dumnorix _gratia et largitione_ `r q3` apud Sequanos  plurimum poterat et Helvetiis erat amicus, quod ex ea civitate Orgetorigis filiam in matrimonium duxerat, et, cupiditate _regni_ `r q4`  adductus, novis rebus studebat et quam plurimas civitates suo beneficio habere obstrictas volebat.
+
+
+
+```{r}
+
+opts6 <- c(answer = "ablativus inopiae", answer = "ablativus separationis", "ablativus pretii", "ablativus limitationis")
+
+q6 <- mcq(opts6)
+
+```
+
+(4) Itaque rem suscipit et a Sequanis impetrat ut per fines suos Helvetios ire patiantur, obsidesque uti inter sese dent perficit: Sequani, ne _itinere_ `r q6` Helvetios prohibeant, Helvetii, ut sine maleficio et iniuria transeant.
+
+---
+
+_Synonyma reperi:_
+
+(1) _angustiae_ = 
+
+```{r}
+opts_angustiae <- c(
+  "difficultas", 
+  "culpa",
+   answer = "locus artus"
+)
+```
+
+`r longmcq(opts_angustiae)`
+
+(2) _largitio_ = 
+
+```{r}
+opts_largitione <- c(
+  "avaritia", 
+  answer = "distributio donorum", 
+  "desiderium"
+)
+```
+
+`r longmcq(opts_largitione)`
+
+(3) _obstrictus_ = 
+
+```{r}
+opts_obstrictas <- c(
+  "apertus", 
+  "ingens",
+  answer = "obligatus"
+)
+```
+
+`r longmcq(opts_obstrictas)`
+
+4. _impetro_ = 
+
+```{r}
+opts_impetro <- c(
+  answer = "exoro", 
+  "rapio", 
+  "capio"
+)
+```
+
+`r longmcq(opts_impetro)`
+
+
+
+
+

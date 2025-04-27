@@ -51,7 +51,7 @@ opts_p <- c(
 
 :::{.column}
 
-_4. Quid Helvetii a Caesare petere voluerunt?_
+_4. Helvetii a Caesare petere voluerunt..._
 
 ```{r}
 opts_p <- c(
@@ -63,7 +63,7 @@ opts_p <- c(
 
 `r longmcq(opts_p)`
 
-_5. Quid Caesar memoria retinebat?_
+_5. Caesar memoria retinebat..._
 
 ```{r}
 opts_p <- c(
@@ -75,7 +75,7 @@ opts_p <- c(
 
 `r longmcq(opts_p)`
 
-_6. Quid Caesar legatis promisit?_
+_6. Caesar legatis promisit..._
 
 ```{r}
 opts_p <- c(
