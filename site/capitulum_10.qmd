@@ -8,10 +8,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-(1) Caesari renuntiatur `r fitb('Helvetiis esse in animo', ignore_case = TRUE)` _(= Helvetiis est in animo)_ per agrum Sequanorum et Haeduorum iter in Santonum fines facere , qui non longe a Tolosatium finibus absunt, quae civitas est in provincia. 
+(1) Caesari renuntiatur `r fitb('Helvetiis esse in animo', ignore_case = TRUE)` _(💬 Helvetiis est in animo)_ per agrum Sequanorum et Haeduorum iter in Santonum fines facere , qui non longe a Tolosatium finibus absunt, quae civitas est in provincia. 
 
 
-(2) Id si `r fitb('fieret')` _(= fit)_, intellegebat magno cum periculo provinciae `r fitb(c('futurum', 'futurum esse'))` _(= fiet)_ ut homines bellicosos, populi Romani inimicos, locis patentibus maximeque frumentariis finitimos haberet. 
+(2) Id si `r fitb('fieret')` _(fit)_, intellegebat magno cum periculo provinciae `r fitb(c('futurum', 'futurum esse'))` _(fiet)_ ut homines bellicosos, populi Romani inimicos, locis patentibus maximeque frumentariis finitimos haberet. 
 
 ```{r}
 opts1 <- c("ea munitione", "eam munitionem", answer ="ei munitioni", "eo munitione")
@@ -20,7 +20,7 @@ q1 <- mcq(opts1)
 ```
 
 
-(3) Ob eas causas  `r q1` quam fecerat T. Labienum legatum praeficit; ipse in Italiam magnis itineribus contendit duasque ibi legiones conscribit et tres, quae circum Aquileiam hiemabant, ex `r fitb('hibernis')` _(= castra in quibus milites agunt hiberno tempore)_  educit et, qua proximum iter in ulteriorem Galliam per Alpes erat, cum his quinque legionibus ire contendit. 
+(3) Ob eas causas  `r q1` quam fecerat T. Labienum legatum praeficit; ipse in Italiam magnis itineribus contendit duasque ibi legiones conscribit et tres, quae circum Aquileiam hiemabant, ex `r fitb('hibernis')` _(= castra in quibus milites agunt hiberno tempore)_  educit et, qua proximum iter in ulteriorem Galliam per Alpes erat, cum his quinque legionibus ire contendit. 
 
 
 ```{r}
@@ -37,4 +37,4 @@ q3 <- mcq(opts3)
 
 (4) Ibi Ceutrones et Graioceli et Caturiges _locis superioribus occupatis_ `r q3` _itinere_ `r q2` exercitum prohibere conantur. 
 
-(5) Compluribus his proeliis pulsis ab Ocelo, quod est oppidum `r fitb('citerioris')` _(< citer)_ provinciae extremum, in `r fitb('fines')` _(= terram)_ Vocontiorum `r fitb('ulterioris')` _(< ulter)_ provinciae die septimo pervenit; inde in Allobrogum `r fitb('fines')` _(= terram)_, ab Allobrogibus in Segusiavos exercitum ducit. Hi sunt extra provinciam trans Rhodanum primi. 
+(5) Compluribus his proeliis pulsis ab Ocelo, quod est oppidum `r fitb('citerioris')` _(< citer)_ provinciae extremum, in `r fitb('fines')` _(= terram)_ Vocontiorum `r fitb('ulterioris')` _(< ulter)_ provinciae die septimo pervenit; inde in Allobrogum `r fitb('fines')` _(= terram)_, ab Allobrogibus in Segusiavos exercitum ducit. Hi sunt extra provinciam trans Rhodanum primi. 

@@ -35,7 +35,7 @@ opts3 <- c(answer = "ablativus causae", "ablativus qualitatis", "ablativus absol
 
 q3 <- mcq(opts3)
 
-opts4 <- c(answer = "genetivus possessivus", answer = "genetivus obiectivus", "genetivus subiectivus", "genetivus generis")
+opts4 <- c("genetivus possessivus", answer = "genetivus obiectivus", "genetivus subiectivus", "genetivus generis")
 
 q4 <- mcq(opts4)
 
