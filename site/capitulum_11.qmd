@@ -30,4 +30,4 @@ q3 <- mcq(opts3)
 
 (4) Item Allobroges, qui trans Rhodanum vicos possessionesque habebant, fuga se ad Caesarem recipiunt et demonstrant sibi praeter agri `r fitb('solum')` _(= terra)_ nihil esse _reliqui_ `r q3`. 
 
-(5) Quibus rebus adductus Caesar `r fitb(c('non expectandum', 'non expectandum esse'))` _(💬 non debeo expectare; coni. periphrastica)_ sibi statuit dum, omnibus, fortunis sociorum consumptis, in Santonos Helvetii `r fitb('pervenirent')` _(pervenio; impf. coni.)_. 
+(5) Quibus rebus adductus Caesar `r fitb(c('non expectandum', 'non expectandum esse'))` _(💬 non debeo expectare; coni. periphrastica)_ sibi statuit dum, omnibus fortunis sociorum consumptis, in Santonos Helvetii `r fitb('pervenirent')` _(pervenio; impf. coni.)_. 

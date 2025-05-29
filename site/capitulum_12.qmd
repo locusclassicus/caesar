@@ -1,0 +1,33 @@
+---
+title: capitulum XI
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+opts1 <- c("ablativus limitationis", "ablativus temporis", "ablativus modi", answer = "ablativus qualitatis")
+q1 <- mcq(opts1)
+```
+
+(1) Flumen est Arar, quod per fines Haeduorum et Sequanorum in Rhodanum influit, _incredibili lenitate_ `r q1`, ita ut oculis in utram partem fluat iudicari non possit. Id Helvetii ratibus ac `r fitb("lintribus")` _(=naviculis levibus)_ iunctis transibant. 
+
+```{r}
+opts2 <- c("numquam", answer = "nondum", "iam", "necdum")
+q2 <- mcq(opts2)
+```
+
+(2) Ubi per exploratores Caesar certior factus est tres iam partes copiarum Helvetios `r fitb("id flumen traduxisse")` _(=trans id flumen duxisse)_, quartam vero partem `r fitb("citra")` _(↔︎ ultra)_ flumen Ararim reliquam esse, de tertia vigilia cum legionibus tribus e castris profectus ad eam partem pervenit quae `r q2` flumen transierat. 
+
+(3) Eos `r fitb("impeditos")` _(↔ expeditos)_ et `r fitb("inopinantes")` _(= non expectantes; < opinor)_ adgressus magnam partem eorum concidit; reliqui sese fugae mandarunt atque in proximas silvas `r fitb("abdiderunt")` _(=occultaverunt)_. 
+
+```{r}
+opts3 <- c("ablativus limitationis", answer = "ablativus temporis", "ablativus modi", "ablativus qualitatis")
+q3 <- mcq(opts1)
+```
+
+(4) Is pagus appellabatur Tigurinus; nam omnis civitas Helvetia in quattuor pagos divisa est. Hic pagus unus, cum domo exisset, patrum nostrorum _memoria_ `r q3` L. Cassium consulem interfecerat et eius exercitum sub iugum miserat. 
+
+(5) Ita sive casu sive consilio deorum immortalium quae pars civitatis Helvetiae `r fitb("insignem")` _(=magnam et notam; < signum)_ calamitatem populo Romano intulerat, ea princeps poenam persolvit. Qua in re Caesar non solum publicas, sed etiam privatas iniurias `r fitb("ultus est")` _(ulciscor, pf. ind. pass.)_, quod eius soceri L. Pisonis avum, L. Pisonem legatum, Tigurini eodem proelio quo Cassium interfecerant. 
