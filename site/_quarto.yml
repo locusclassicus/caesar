@@ -20,6 +20,8 @@ website:
       - href: capitulum_9.qmd
       - href: capitulum_10.qmd
       - href: capitulum_11.qmd
+      - href: capitulum_12.qmd
+      - href: capitulum_13.qmd
 format:
   html:
     theme: sandstone
