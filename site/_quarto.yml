@@ -22,6 +22,7 @@ website:
       - href: capitulum_11.qmd
       - href: capitulum_12.qmd
       - href: capitulum_13.qmd
+      - href: capitulum_14.qmd
 format:
   html:
     theme: sandstone

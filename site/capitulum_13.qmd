@@ -40,4 +40,4 @@ opts4 <- c("nominativus", answer = "genetivus", "dativus", "accusativus")
 q4 <- mcq(opts4)
 ```
 
-(5) Quare ne committeret ut is locus ubi constitissent ex `r fitb("calamitate")` _(↔ victoria)_ populi Romani et internecione exercitus `r q4` nomen caperet aut memoriam proderet. 
+(6) Quare ne committeret ut is locus ubi constitissent ex `r fitb("calamitate")` _(↔ victoria)_ populi Romani et internecione exercitus `r q4` nomen caperet aut memoriam proderet. 
