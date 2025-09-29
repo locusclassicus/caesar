@@ -23,6 +23,10 @@ website:
       - href: capitulum_12.qmd
       - href: capitulum_13.qmd
       - href: capitulum_14.qmd
+      - href: capitulum_15.qmd
+      - href: capitulum_16.qmd
+      - href: capitulum_17.qmd
+      - href: capitulum_18.qmd
 format:
   html:
     theme: sandstone

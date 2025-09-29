@@ -1,5 +1,5 @@
 ---
-title: сapitulum VI
+title: capitulum VI
 ---
 
 ```{r setup, include=FALSE}

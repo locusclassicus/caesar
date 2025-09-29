@@ -1,0 +1,14 @@
+---
+title: capitulum XVI
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+(1) Interim cotidie Caesar Haeduos frumentum, quod  publice `r fitb(c("polliciti essent", "essent polliciti"))` _(polliceor; pqpf. coni.)_, flagitare. 
+
+(2) Nam propter frigora ... non modo frumenta in agris matura non erant, sed ne pabuli quidem satis magna copia suppetebat; eo autem frumento quod flumine Arari navibus `r fitb("subvexerat")` _(subveho; pqpf. ind. act., sg.)_ propterea minus uti poterat, quod iter ab Arari Helvetii `r fitb("averterant")` _(averto; pqpf. ind.)_, a quibus discedere nolebat. 
+
+(3) Diem ex die ducere Haedui: conferri, comportari, adesse dicere. Ubi se `r fitb("diutius")` _(< diu; compar.)_ duci intellexit et diem instare quo die frumentum militibus `r fitb("metiri")` _(= distribuere; depon. inf.)_ oporteret, convocatis eorum principibus ... graviter eos accusat, quod, cum neque emi neque ex agris sumi posset, tam necessario tempore, tam `r fitb("propinquis")` _(< prope; adi.)_ hostibus ab iis non `r fitb("sublevetur")` _(sublevo; praes. coni.)_, praesertim cum magna ex parte eorum precibus adductus bellum susceperit; multo etiam gravius quod sit destitutus queritur. 

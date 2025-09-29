@@ -1,0 +1,30 @@
+---
+title: capitulum XVIII
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+(1) Caesar hac oratione Lisci Dumnorigem, Diviciaci fratrem, designari sentiebat, sed, quod pluribus praesentibus eas res iactari nolebat, celeriter `r fitb("concilium")` _(=conventum audientium)_ dimittit, Liscum retinet. 
+
+(2) Quaerit ex solo ea quae in conventu dixerat. Dicit `r fitb("liberius")` _(< liber; adv. compar.)_ atque `r fitb("audacius")` _(< audax; adv. compar.)_. 
+
+(3) Eadem secreto ab aliis quaerit; reperit esse vera: ipsum esse Dumnorigem, _summa audacia_ (a), magna apud plebem propter liberalitatem gratia, cupidum _rerum novarum_ (b). 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (3a): ablativus `r fitb("qualitatis")`.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (3b): genetivus `r fitb(c("obiecti", "obiectivus", "objecti", "objectivus"))`.
+
+(4) Complures annos portoria reliquaque omnia Haeduorum vectigalia _parvo pretio_ (a) redempta habere, propterea quod _illo licente_ (b) contra liceri audeat nemo. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (4a): ablativus `r fitb("pretii")`.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (4b): ablativus `r fitb("absolutus")`.
+
+(5) His rebus et suam rem familiarem `r fitb("auxisse")` _(augeo; inf. perf. act.)_ et facultates ad largiendum magnas comparasse; magnum numerum equitatus suo sumptu semper alere et circum se habere, neque solum domi, sed etiam apud finitimas civitates `r fitb("largiter")` _(< largus; adv. = large)_ posse, atque huius potentiae causa matrem in Biturigibus homini illic nobilissimo ac potentissimo conlocasse; ipsum ex Helvetiis uxorem habere, sororum ex matre et propinquas suas `r fitb("nuptum")` _(nubo; supinum I)_ in alias civitates conlocasse.
+
+(6) Favere et cupere Helvetiis propter eam affinitatem, odisse etiam suo nomine Caesarem et Romanos, quod _eorum adventu_ (a) potentia eius deminuta et Diviciacus frater in antiquum locum gratiae atque honoris sit restitutus. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (6a): ablativus `r fitb("temporis")`.
+
+(7) Si quid accidat Romanis, summam in spem per Helvetios regni obtinendi venire; imperio populi Romani non modo `r fitb("de")` _(ex/sine/a/de)_ regno, sed etiam `r fitb("de")` _(ex/sine/ab/de)_ ea quam habeat gratia desperare. 

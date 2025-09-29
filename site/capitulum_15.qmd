@@ -1,0 +1,29 @@
+---
+title: capitulum XV
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+(1) _Postero die_ (a) castra ex eo loco movent. Idem facit Caesar equitatumque omnem, ad numerum quattuor milium, quem ex omni provincia et Haeduis atque eorum sociis `r fitb("coactum habebat")` _(=coegit; habebat + part. perf. pass.)_, praemittit, qui videant quas in partes hostes iter faciant. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1a): ablativus `r fitb("temporis")`.
+
+(2) Qui cupidius `r fitb("novissimum")` _(= postremum; superl.)_ agmen insecuti _alieno loco_ (a) cum equitatu Helvetiorum proelium `r fitb("committunt")` _(= incipiunt)_; et pauci de nostris cadunt. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2a): ablativus `r fitb("loci")`.
+
+(3) _Quo proelio_ (a) sublati Helvetii, quod _quingentis equitibus_ (b) tantam multitudinem equitum propulerant, audacius subsistere non numquam et novissimo agmine proelio nostros lacessere coeperunt. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (3a): ablativus `r fitb("causae")`.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (3b): ablativus `r fitb("instrumenti")`.
+
+(4) Caesar suos a proelio continebat, ac satis habebat in praesentia hostem _rapinis populationibusque_ (a) prohibere. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (4a): ablativus `r fitb("separationis")`.
+
+(5) Ita dies circiter quindecim iter fecerunt ut inter novissimum hostium agmen et nostrum primum non amplius _quinis aut senis_ (a; = quam quina aut sena milia) milibus passuum interesset.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (5a): ablativus `r fitb("comparationis")`.

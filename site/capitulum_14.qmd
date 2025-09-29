@@ -2,39 +2,23 @@
 title: capitulum XIV
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-```{r}
-opts1 <- c("ablativus comparationis", "ablativus causae", answer = "ablativus mensurae", "ablativus qualitatis")
-q1 <- mcq(opts1)
+(1) His Caesar ita respondit: _eo_ (a)  sibi minus dubitationis dari, quod eas res quas legati Helvetii commemorassent memoria teneret, atque eo `r fitb("gravius")` _(↔︎ levius )_ ferre quo minus _merito_ (b) populi Romani accidissent; qui si alicuius iniuriae sibi conscius fuisset, non fuisse difficile cavere; sed eo deceptum, quod neque commissum a se intellegeret `r fitb("quare")` _(= propter quod)_ timeret neque sine causa timendum putaret. 
 
-opts2 <- c("ablativus comparationis", answer = "ablativus causae", "ablativus mensurae", "ablativus qualitatis")
-q2 <- mcq(opts2)
-```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1a): ablativus `r fitb("mensurae")`.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1b): ablativus `r fitb("causae")`.
 
-(1) His Caesar ita respondit: eo `r q1`  sibi minus dubitationis dari, quod eas res quas legati Helvetii commemorassent memoria teneret, atque eo `r fitb("gravius")` _(↔︎ levius )_ ferre quo minus merito `r q2` populi Romani accidissent; qui si alicuius iniuriae sibi conscius fuisset, non fuisse difficile cavere; sed eo deceptum, quod neque commissum a se intellegeret `r fitb("quare")` _(= propter quod)_ timeret neque sine causa timendum putaret. 
+(2) Quod si veteris contumeliae oblivisci vellet, num etiam recentium iniuriarum, quod eo invito iter per provinciam per vim `r fitb("temptassent")` _(= temptavissent)_, quod Haeduos, quod Ambarros, quod Allobrogas `r fitb("vexassent")` _(= vexavissent)_ , memoriam deponere posse? 
 
-(2) Quod si veteris contumeliae oblivisci vellet, num etiam recentium iniuriarum, quod eo invito iter per provinciam per vim `r fitb("temptassent")` _(temptavissent)_, quod Haeduos, quod Ambarros, quod Allobrogas `r fitb("vexassent")` _(vexavissent)_ , memoriam deponere posse? 
+(3) Quod sua victoria tam insolenter `r fitb("gloriarentur")` _(glorior; impf. coni.)_ quodque tam diu se impune iniurias tulisse `r fitb("admirarentur")` _(admiror; impf. coni.)_, eodem pertinere. 
 
-(3) Quod sua victoria tam insolenter `r fitb("gloriarentur")` _(glorior, impf. coni. pass.)_ quodque tam diu se impune iniurias `r fitb("tulisse")` _(fero, inf. pf. act.)_ admirarentur, eodem pertinere. 
+(4) Consuesse enim deos immortales, `r fitb("quo")` _(= ut eo)_ gravius homines ex commutatione rerum doleant, quos `r fitb("pro")` _(per/pro/propter)_ scelere eorum ulcisci velint, his secundiores interdum res et diuturniorem impunitatem concedere. 
 
-```{r}
-opts3 <- c("de", answer = "pro", "per", "propter")
-q3 <- mcq(opts3)
-```
+(5) Cum ea ita sint, tamen, si obsides ab iis sibi `r fitb("dentur")` _(praes. coni.)_, uti ea quae polliceantur facturos intellegat, et si Haeduis `r fitb("de")` _(propter/de/pro/per)_ iniuriis quas ipsis sociisque eorum intulerint, item si Allobrogibus `r fitb("satisfaciant")` _(praes. coni.)_, sese cum iis pacem esse `r fitb("facturum")` _(part.)_.
 
-(4) Consuesse enim deos immortales, `r fitb("quo")` _(= ut eo)_ gravius homines ex commutatione rerum doleant, quos `r q3` scelere eorum ulcisci velint, his secundiores interdum res et diuturniorem impunitatem concedere. 
+> **Caesar**: "Si obsides a vobis mihi *dantur* ... et si Haeduis ... *satisfacitis*, vobiscum pacem *faciam*".
 
-```{r}
-opts4 <- c(answer = "de", "pro", "per", "propter")
-q4 <- mcq(opts4)
-```
-
-(5) Cum ea ita sint, tamen, si obsides ab iis sibi `r fitb("dentur")`, uti ea quae polliceantur facturos intellegat, et si Haeduis `r q4` iniuriis quas ipsis sociisque eorum intulerint, item si Allobrogibus `r fitb("satisfaciant")`, sese cum iis pacem esse `r fitb("facturum")`.
-
-> Caesar: Si obsides a vobis mihi dantur (= dati erunt) ... et si Haeduis de iniuriis ... satisfacitis (= satisfeceritis), vobiscum pacem faciam.
-
-(6) Divico respondit: ita Helvetios a maioribus suis `r fitb("institutos")` _(= doctos)_ esse uti obsides accipere, non dare, `r fitb("consuerint")` _(= consueverint)_; eius rem populum Romanum esse testem. Hoc responso dato discessit. 
+(6) Divico respondit: ita Helvetios a maioribus suis `r fitb("institutos")` _(= doctos; < statuo)_ esse uti obsides accipere, non dare, `r fitb("consuerint")` _(= consueverint)_; eius rem populum Romanum esse testem. Hoc responso dato discessit. 

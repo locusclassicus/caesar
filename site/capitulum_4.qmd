@@ -1,12 +1,12 @@
 ---
-title: сapitulum IV
+title: capitulum IV
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-_Desunt vocabula: mors, mos, suspicium, iudicium, indicium._
+_Desunt vocabula: mors, mos, suspicio, iudicium, indicium._
 
 (@) Ea res est Helvetiis per  `r fitb('indicium', ignore_case = TRUE)`  enuntiata.
 

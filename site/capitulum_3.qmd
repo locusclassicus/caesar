@@ -1,5 +1,5 @@
 ---
-title: сapitulum III
+title: capitulum III
 ---
 
 ```{r setup, include=FALSE}
@@ -8,13 +8,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 _Gerundium, gerundivum aut participium inserendum est._
 
-(@) His rebus  `r fitb('adducti', ignore_case = TRUE)`_\(adduco\)_  et auctoritate Orgetorigis  `r fitb('permoti', ignore_case = TRUE)`_\(permoveo\)_  constituerunt ea quae ad  `r fitb('proficiscendum', ignore_case = TRUE)`_\(proficiscor\)_  pertinerent comparare, iumentorum et carrorum quam maximum numerum coemere, sementes quam maximas facere, ut in itinere copia frumenti suppeteret, cum proximis civitatibus pacem et amicitiam confirmare.
+(@) His rebus  `r fitb('adducti', ignore_case = TRUE)` _\(adduco\)_  et auctoritate Orgetorigis  `r fitb('permoti', ignore_case = TRUE)` _\(permoveo\)_  constituerunt ea quae ad  `r fitb('proficiscendum', ignore_case = TRUE)` _\(proficiscor\)_  pertinerent comparare, iumentorum et carrorum quam maximum numerum coemere, sementes quam maximas facere, ut in itinere copia frumenti suppeteret, cum proximis civitatibus pacem et amicitiam confirmare.
 
 
-(@) Ad eas res  `r fitb('conficiendas', ignore_case = TRUE)`_\(conficio\)_  biennium sibi satis esse duxerunt.
+(@) Ad eas res  `r fitb('conficiendas', ignore_case = TRUE)` _\(conficio\)_  biennium sibi satis esse duxerunt.
 
 
-(@) Perfacile factu esse illis probat conata perficere, propterea quod ipse suae civitatis imperium  `r fitb('obtenturus', ignore_case = TRUE)`_\(obtineo\)_  esset: non esse dubium quin totius Galliae plurimum Helvetii possent; se suis copiis suoque exercitu illis regna `r fitb('conciliaturum', ignore_case = TRUE)`_\(concilio\)_ confirmat.
+(@) Perfacile factu esse illis probat conata perficere, propterea quod ipse suae civitatis imperium  `r fitb('obtenturus', ignore_case = TRUE)` _\(obtineo; fut., nom.\)_  esset: non esse dubium quin totius Galliae plurimum Helvetii possent; se suis copiis suoque exercitu illis regna `r fitb('conciliaturum', ignore_case = TRUE)` _\(concilio; fut., acc.\)_ confirmat.
 
 
-(@) Hac oratione  `r fitb('adducti', ignore_case = TRUE)`_\(adduco\)_  inter se fidem et ius  iurandum dant et, regno  `r fitb('occupato', ignore_case = TRUE)`_\(occupo\)_, per tres potentissimos ac firmissimos populos totius Galliae sese potiri posse sperant.
+(@) Hac oratione  `r fitb('adducti', ignore_case = TRUE)` _\(adduco\)_  inter se fidem et ius  iurandum dant et, regno  `r fitb('occupato', ignore_case = TRUE)` _\(occupo\)_, per tres potentissimos ac firmissimos populos totius Galliae sese potiri posse sperant.

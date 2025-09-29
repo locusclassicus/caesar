@@ -1,5 +1,5 @@
 ---
-title: сapitulum IX
+title: capitulum IX
 ---
 
 
@@ -7,115 +7,25 @@ title: сapitulum IX
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-```{r}
 
-opts1 <- c("ablativus separationis", "ablativus modi", "ablativus temporis", answer = "ablativus absolutus")
+(1) Relinquebatur una per Sequanos via, qua _Sequanis invitis_ (a)  propter angustias ire non poterant. 
 
-q1 <- mcq(opts1)
-
-```
-
-(1) Relinquebatur una per Sequanos via, qua _Sequanis invitis_ `r q1` propter angustias ire non poterant.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1a): ablativus `r fitb("absolutus")`.
 
 
-```{r}
+(2) His cum sua sponte persuadere non possent, legatos ad Dumnorigem Haeduum mittunt, ut _eo deprecatore_ (a) a Sequanis impetrarent.
 
-opts2 <- c("ablativus causae", "ablativus qualitatis", answer = "ablativus absolutus", "ablativus mensurae")
-
-q2 <- mcq(opts2)
-
-```
-
-(2) His cum sua sponte persuadere non possent, legatos ad Dumnorigem Haeduum mittunt, ut _eo deprecatore_ `r q2` a Sequanis impetrarent.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2a): ablativus `r fitb("absolutus")`.
 
 
-```{r}
-
-opts3 <- c(answer = "ablativus causae", "ablativus qualitatis", "ablativus absolutus", "ablativus auctoris")
-
-q3 <- mcq(opts3)
-
-opts4 <- c("genetivus possessivus", answer = "genetivus obiectivus", "genetivus subiectivus", "genetivus generis")
-
-q4 <- mcq(opts4)
-
-```
-
-(3) Dumnorix _gratia et largitione_ `r q3` apud Sequanos  plurimum poterat et Helvetiis erat amicus, quod ex ea civitate Orgetorigis filiam in matrimonium duxerat, et, cupiditate _regni_ `r q4`  adductus, novis rebus studebat et quam plurimas civitates suo beneficio habere obstrictas volebat.
+(3) Dumnorix _gratia et largitione_ (a) apud Sequanos  plurimum poterat et Helvetiis erat amicus, quod ex ea civitate Orgetorigis filiam in matrimonium duxerat, et, cupiditate _regni_ (b)  adductus, novis rebus studebat et quam plurimas civitates suo beneficio habere obstrictas volebat.
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3a): ablativus `r fitb("causae")`.
 
-```{r}
-
-opts6 <- c("ablativus inopiae", answer = "ablativus separationis", "ablativus pretii", "ablativus limitationis")
-
-q6 <- mcq(opts6)
-
-```
-
-(4) Itaque rem suscipit et a Sequanis impetrat ut per fines suos Helvetios ire patiantur, obsidesque uti inter sese dent perficit: Sequani, ne _itinere_ `r q6` Helvetios prohibeant, Helvetii, ut sine maleficio et iniuria transeant.
-
----
-
-_Synonyma reperi:_
-
-::::{.columns}
-:::{.column}
-
-(5) _angustiae_ = 
-
-```{r}
-opts_angustiae <- c(
-  "fortuna", 
-  "culpa",
-   answer = "locus artus"
-)
-```
-
-`r longmcq(opts_angustiae)`
-
-(6) _largitio_ = 
-
-```{r}
-opts_largitione <- c(
-  "avaritia", 
-  answer = "distributio donorum", 
-  "desiderium"
-)
-```
-
-`r longmcq(opts_largitione)`
-
-:::
-
-:::{.column}
-
-(7) _obstrictus_ = 
-
-```{r}
-opts_obstrictas <- c(
-  "apertus", 
-  "ingens",
-  answer = "obligatus"
-)
-```
-
-`r longmcq(opts_obstrictas)`
-
-(8) _impetro_ = 
-
-```{r}
-opts_impetro <- c(
-  answer = "exoro", 
-  "rapio", 
-  "capio"
-)
-```
-
-`r longmcq(opts_impetro)`
-
-:::
-::::
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3b): genetivus `r fitb(c("obiectivus", "obiecti", "objecti", "objectivus"))`.
 
 
+(4) Itaque rem suscipit et a Sequanis impetrat ut per fines suos Helvetios ire patiantur, obsidesque uti inter sese dent perficit: Sequani, ne _itinere_ (a) Helvetios prohibeant, Helvetii, ut sine maleficio et iniuria transeant.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4a): ablativus `r fitb("separationis")`.

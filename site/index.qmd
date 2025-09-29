@@ -5,3 +5,9 @@ title: Qui sumus nos
 Salvete, sodales!
 
 Haec pagina exercitia ad usum discipulorum continet quae facienda sunt post singulum capitulum ex Caesaris de Bello Gallico commentariis. Exercitia magistra Olga facit, magistra Xenia docet. Scholis intersunt Adelina, Cyrillus, Polina, Timur, Xenia.
+
+🔗 Situs interretialis: <https://locusclassicus.github.io/caesar/> \
+\
+🖨️ Exercitia ad imprimendum parata [hic](http://antibarbari.ru) sunt.
+
+![](team.jpg)

@@ -1,82 +1,21 @@
 ---
-title: сapitulum VII
+title: capitulum VII
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+(1) Caesari cum id nuntiatum esset, eos per provinciam nostram iter facere conari, `r fitb("maturat")` _(= mature it, properat)_ ab urbe proficisci et quam maximis potest itineribus in Galliam `r fitb("ulteriorem")` _(= ultra Alpes)_ contendit et ad Genavam pervenit. 
 
-_1. Cum profectionem Helvetiorum comperisset, quid Caesar facere properavit?_
+(2) `r fitb(c("Provinciae toti", "provinciae toti"))` _(provincia tota, dat.)_ quam maximum potest militum numerum imperat (erat omnino in Gallia ulteriore legio una), pontem, qui erat ad Genavam, iubet `r fitb("rescindi")` _(= rumpi; < scindo)_. 
 
-```{r}
-opts_p <- c(
-  "ad Britanniam navigare",
-  answer = "ab urbe proficisci",
-  "Romam reverti",
-  "milites convocare")
-```
+(3) Ubi de eius adventu Helvetii certiores facti sunt, legatos ad eum mittunt nobilissimos _civitatis_ (a), cuius legationis Nammeius et Verucloetius principem locum obtinebant, qui `r fitb("dicerent")` _(dico, impf. coni. act.)_ sibi esse in animo sine ullo `r fitb("maleficio")` _(↔︎  beneficio)_ iter per provinciam facere, propterea quod aliud iter haberent nullum: rogare ut eius voluntate id sibi facere liceat. 
 
-`r longmcq(opts_p)`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (3a): genetivus `r fitb("partitivus")`.
 
-_2. Cum primum Genavam pervenisset, quid Caesar rescindi iussit?_
+(4) Caesar, quod memoria tenebat L. Cassium consulem occisum exercitumque eius ab Helvetiis pulsum et sub iugum missum, concedendum non putabat; neque homines _inimico animo_ (a), data facultate per provinciam itineris `r fitb("faciundi")` _(= faciendi)_, temperaturos `r fitb("ab")` _(de/ab/ex/sine)_ iniuria et maleficio existimabat. 
 
-```{r}
-opts_p <- c(
-  "muros urbis",
-  "castra Romana",
-  answer = "pontem ad Genavam",
-  "portas oppidi")
-```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (4a): ablativus `r fitb("qualitatis")`
 
-`r longmcq(opts_p)`
-
-_3. Quos nobiles Helvetii ad Caesarem legatos miserunt?_
-
-```{r}
-opts_p <- c(
-  answer = "Nammeium et Verucloetium",
-  "Orgetorigem et Diviconem",
-  "Ambiorigem et Casticum",
-  "Dumnorigem et Vercingetorigem")
-```
-
-`r longmcq(opts_p)`
-
-
-_4. Helvetii a Caesare petere voluerunt..._
-
-```{r}
-opts_p <- c(
-  "ut sibi liceret bellum gerere",
-  answer = "ut iter per provinciam facere liceret",
-  "ut auxilia a Romanis acciperent",
-  "ut pacem cum finitimis facerent")
-```
-
-`r longmcq(opts_p)`
-
-_5. Caesar memoria retinebat..._
-
-```{r}
-opts_p <- c(
-  "L. Cassium consulem praemium accepisse",
-  answer = "L. Cassium consulem occisum esse",
-  "L. Cassium consulem legatum fuisse",
-  "L. Cassium consulem Galliam vicisse")
-```
-
-`r longmcq(opts_p)`
-
-_6. Caesar legatis promisit..._
-
-```{r}
-opts_p <- c(
-  "se responsurum esse post bellum",
-  "se cum Helvetiis pacem facturum esse",
-  answer = "se deliberaturum esse de re",
-  "se auxilium Helvetiis daturum esse")
-```
-
-`r longmcq(opts_p)`
-
+(5) Tamen, ut spatium intercedere posset dum milites quos imperaverat convenirent, legatis respondit diem se ad deliberandum sumpturum: si quid vellent, ad Id. April. `r fitb("reverterentur")` _(revertor, impf. coni.)_. 
