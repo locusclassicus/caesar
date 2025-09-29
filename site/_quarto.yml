@@ -35,4 +35,8 @@ format:
     include-after-body: include/webex.js
   pdf:
     toc: false
+    include-in-header:
+      text: |
+        \pagenumbering{gobble}
+
 format-links: [pdf]

@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1a): ut `r fitb("finale")`.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1b): participium `r fitb("futuri")` passivi.
 
-(2) Helvetii repentino eius adventu commoti cum id quod ipsi _diebus viginti_ (a) `r fitb("aegerrime")` _(↔︎ facillime; < aeger)_ `r fitb("confecerant")` _(conficio, pqpf. ind. act.)_, ut flumen `r fitb("transirent")` _(transeo, impf. coni. act.)_, illum uno die fecisse `r fitb("intellegerent")` _(intellego, impf. coni. act.)_, legatos ad eum mittunt; `r fitb("cuius")` _(qui, qua, quod)_ legationis Divico princeps fuit, qui bello Cassiano dux Helvetiorum fuerat. 
+(2) Helvetii repentino eius adventu commoti cum id quod ipsi _diebus viginti_ (a) `r fitb("aegerrime")` _(︎<=︎> facillime; < aeger)_ `r fitb("confecerant")` _(conficio, pqpf. ind. act.)_, ut flumen `r fitb("transirent")` _(transeo, impf. coni. act.)_, illum uno die fecisse `r fitb("intellegerent")` _(intellego, impf. coni. act.)_, legatos ad eum mittunt; `r fitb("cuius")` _(qui, qua, quod)_ legationis Divico princeps fuit, qui bello Cassiano dux Helvetiorum fuerat. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2a): ablativus `r fitb("temporis")`.
 
@@ -27,4 +27,4 @@ knitr::opts_chunk$set(echo = FALSE)
 (5) Se ita a patribus maioribusque suis didicisse, ut magis virtute `r fitb("contenderent")` _(= certarent; < tendo)_ quam dolo aut insidiis `r fitb("niterentur")` _(= uterentur)_.
 
 
-(6) Quare ne committeret ut is locus ubi constitissent ex `r fitb("calamitate")` _(↔ victoria)_ populi Romani et internecione exercitus nomen caperet aut memoriam proderet. 
+(6) Quare ne committeret ut is locus ubi constitissent ex `r fitb("calamitate")` _(︎<=> victoria)_ populi Romani et internecione exercitus nomen caperet aut memoriam proderet. 

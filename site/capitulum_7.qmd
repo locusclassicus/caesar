@@ -8,9 +8,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 (1) Caesari cum id nuntiatum esset, eos per provinciam nostram iter facere conari, `r fitb("maturat")` _(= mature it, properat)_ ab urbe proficisci et quam maximis potest itineribus in Galliam `r fitb("ulteriorem")` _(= ultra Alpes)_ contendit et ad Genavam pervenit. 
 
-(2) `r fitb(c("Provinciae toti", "provinciae toti"))` _(provincia tota, dat.)_ quam maximum potest militum numerum imperat (erat omnino in Gallia ulteriore legio una), pontem, qui erat ad Genavam, iubet `r fitb("rescindi")` _(= rumpi; < scindo)_. 
+(2) `r fitb(c("Provinciae toti", "provinciae toti"))` _(provincia tota, dat.)_ quam maximum potest militum numerum imperat (erat omnino in Gallia ulteriore legio una), pontem, qui erat ad Genavam, iubet `r fitb("rescindi")` _(= rumpi; < scindo)_. 
 
-(3) Ubi de eius adventu Helvetii certiores facti sunt, legatos ad eum mittunt nobilissimos _civitatis_ (a), cuius legationis Nammeius et Verucloetius principem locum obtinebant, qui `r fitb("dicerent")` _(dico, impf. coni. act.)_ sibi esse in animo sine ullo `r fitb("maleficio")` _(↔︎  beneficio)_ iter per provinciam facere, propterea quod aliud iter haberent nullum: rogare ut eius voluntate id sibi facere liceat. 
+(3) Ubi de eius adventu Helvetii certiores facti sunt, legatos ad eum mittunt nobilissimos _civitatis_ (a), cuius legationis Nammeius et Verucloetius principem locum obtinebant, qui `r fitb("dicerent")` _(dico, impf. coni. act.)_ sibi esse in animo sine ullo `r fitb("maleficio")` _(︎<=> beneficio)_ iter per provinciam facere, propterea quod aliud iter haberent nullum: rogare ut eius voluntate id sibi facere liceat. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (3a): genetivus `r fitb("partitivus")`.
 

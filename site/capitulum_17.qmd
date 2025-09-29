@@ -8,9 +8,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-(1) Tum demum Liscus oratione Caesaris adductus quod antea tacuerat proponit: esse nonnullos, quorum auctoritas apud plebem plurimum valeat, qui `r fitb("privatim")` _(&harr; publice)_ plus possint quam ipsi magistratus. 
+(1) Tum demum Liscus oratione Caesaris adductus quod antea tacuerat proponit: esse nonnullos, quorum auctoritas apud plebem plurimum valeat, qui `r fitb("privatim")` _(︎<=> publice)_ plus possint quam ipsi magistratus. 
 
-(2) Hos `r fitb("seditiosa")` _(< seditio; adi.)_ atque improba oratione multitudinem deterrere, ne frumentum conferant quod debeant: praestare, si iam principatum Galliae obtinere non possint, Gallorum quam Romanorum imperia perferre, neque dubitare, quin, si Helvetios superaverint Romani, una cum reliqua Gallia Aeduis libertatem `r fitb(c("sint erepturi", "erepturi sint"))` _(eripio; fut. periphr. praes.)_. 
+(2) Hos `r fitb("seditiosa")` _(< seditio; adi.)_ atque improba oratione multitudinem deterrere, ne frumentum conferant quod debeant: praestare, si iam principatum Galliae obtinere non possint, Gallorum quam Romanorum imperia perferre, neque dubitare, quin, si Helvetios superaverint Romani, una cum reliqua Gallia Aeduis libertatem `r fitb(c("sint erepturi", "erepturi sint"))` _(eripio; fut. periphr. praes.)_. 
 
 (3) Ab isdem nostra consilia quaeque in castris gerantur hostibus enuntiari; hos a se `r fitb("coerceri")` _(= contineri; < arceo)_ non posse. 
 

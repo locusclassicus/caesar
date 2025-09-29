@@ -6,7 +6,7 @@ title: capitulum XIV
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-(1) His Caesar ita respondit: _eo_ (a)  sibi minus dubitationis dari, quod eas res quas legati Helvetii commemorassent memoria teneret, atque eo `r fitb("gravius")` _(↔︎ levius )_ ferre quo minus _merito_ (b) populi Romani accidissent; qui si alicuius iniuriae sibi conscius fuisset, non fuisse difficile cavere; sed eo deceptum, quod neque commissum a se intellegeret `r fitb("quare")` _(= propter quod)_ timeret neque sine causa timendum putaret. 
+(1) His Caesar ita respondit: _eo_ (a)  sibi minus dubitationis dari, quod eas res quas legati Helvetii commemorassent memoria teneret, atque eo `r fitb("gravius")` _(︎<=︎> levius )_ ferre quo minus _merito_ (b) populi Romani accidissent; qui si alicuius iniuriae sibi conscius fuisset, non fuisse difficile cavere; sed eo deceptum, quod neque commissum a se intellegeret `r fitb("quare")` _(= propter quod)_ timeret neque sine causa timendum putaret. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1a): ablativus `r fitb("mensurae")`.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1b): ablativus `r fitb("causae")`.
